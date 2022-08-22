@@ -13,6 +13,18 @@ var bodyzajmu = {
             {
                 src: "zskom_2",
                 autor: "Martin Ticháček"
+            },
+            {
+                src: "zskom_3",
+                autor: "Martin Ticháček"
+            },
+            {
+                src: "zskom_4",
+                autor: "Martin Ticháček"
+            },
+            {
+                src: "zskom_5",
+                autor: "Martin Ticháček"
             }
         ],
             malaikona: "realizace"
